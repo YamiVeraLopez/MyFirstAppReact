@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(173, 171, 171);
+}
+.cuadricula{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
